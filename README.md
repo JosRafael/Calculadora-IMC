@@ -3,6 +3,10 @@
 
   <h2 id="sobre"> 📚  Calculadora desenvolvida para a disciplina de Dispositivos Móveis.</h2>
   
+<p align="center">
+  <img width="460" height="300"![ezgif com-gif-maker](https://user-images.githubusercontent.com/81492148/196319316-37ddef93-eb54-4a5c-a16c-fe29ae9e42a0.gif)">
+</p>
+  
 
  <h2 id="autor"> 🦸 Autor</h2>
 
