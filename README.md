@@ -14,6 +14,6 @@
   
  <h2 id="docente"> 👨‍🏫  Docente</h2>
 
-Disciplina monitorada por Leonardo Campello. [Github](https://github.com/leonardocampello).
+Disciplina monitorada por Leonardo Campello. [GitHub do Professor](https://github.com/leonardocampello).
 
 
