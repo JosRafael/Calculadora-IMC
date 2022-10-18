@@ -1,7 +1,7 @@
 <h1 align="center">🖩 Calculadora IMC</h1>
 
 
-  <h2 id="sobre"> 📚  Repositório apenas dedicado para registrar o processo da calculadora de IMC, desenvolvida para a disciplina de Dispositivos Móveis.</h2>
+  <h2 id="sobre"> 📚  Calculadora desenvolvida para a disciplina de Dispositivos Móveis.</h2>
   
 
  <h2 id="autor"> 🦸 Autor</h2>
